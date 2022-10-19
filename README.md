@@ -1,5 +1,13 @@
 # Template: Vite+TailwindCSS
 
+## Install
+
+```bash
+npx degit mi-skam/vite-vanilla-tailwind _your_project_
+
+# or simply clone this repo with git clone mi-skam/vite-vanilla-tailwind
+```
+
 ## Commands
 
 ```bash
