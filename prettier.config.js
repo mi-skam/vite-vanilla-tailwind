@@ -12,7 +12,9 @@ module.exports = {
     'prettier-plugin-tailwindcss',
   ],
   pluginSearchDirs: false,
-
   tailwindConfig: './tailwind.config.js',
+
+  // Config
+  endOfLine: 'auto',
   singleQuote: true,
 };
